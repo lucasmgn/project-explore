@@ -1,0 +1,7 @@
+spring:
+  cache:
+    type: redis
+
+exchange:
+  api:
+    url: 'https://v6.exchangerate-api.com/v6/3aa6db46cd6dafd288c7e67f/latest/'
